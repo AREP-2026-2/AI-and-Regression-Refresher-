@@ -2,7 +2,7 @@
 
 This project explores how a regression model learns from data by implementing linear and polynomial regression from first principles. It uses a small instructional dataset relating stellar mass and luminosity, trains both models with vectorized NumPy operations, and compares their behavior inside and outside the observed data range.
 
-## HECHO POR:
+## MADE BY:
 - Sebastian Albarracin Silva 
 
 ## Requirements
